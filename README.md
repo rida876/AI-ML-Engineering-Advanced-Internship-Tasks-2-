@@ -8,14 +8,6 @@ This repository/document contains three machine learning tasks covering Deep Lea
 
 ---
 
- Student Information
-
-* **Name:** Mahi Jutt
-* **Program:** BSCS (Bachelor of Science in Computer Science)
-* **Course:** Machine Learning / Data Science
-* **Date:** 16 May 2026
-
----
 
  Project Structure
 
